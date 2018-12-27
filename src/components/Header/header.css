@@ -1,0 +1,19 @@
+.header-container{
+    display: flex;
+    width: 100vw;
+    height: 60px;
+    background: red;
+    margin-bottom: 10px;
+    justify-content: center;
+}
+.houser-logo{
+    margin: 10px;
+    width:40px;
+    height: 35px;
+}
+.houser-txt{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 20px;
+}
